@@ -1,0 +1,4 @@
+xrdb -merge ~/.Xresources
+LANG=ja_JP.UTF-8 tint2 > /dev/null 2>&1 &
+sleep 1
+fcitx5 > /dev/null 2>&1 &

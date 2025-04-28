@@ -1,0 +1,4 @@
+Host Docker-alpine
+  HostName localhost
+  User root
+  Port 2222
